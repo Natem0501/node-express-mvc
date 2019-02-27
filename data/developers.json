@@ -93,7 +93,14 @@
   },
   {
     "_id": 113,
-    "email": "@nwmissouri.edu"
+    "email": "S523693@nwmissouri.edu",
+    "given": "Nate",
+    "family": "Meeker",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "zip": 51503,
+    "country": "USA",
+    "URL": "https://www.linkedin.com/in/nathanmeeker/"
   },
   {
     "_id": 114,
